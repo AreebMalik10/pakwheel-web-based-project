@@ -1,1 +1,1 @@
-This website is Frontend website using HTML or CSS.
+This website is a Frontend website using HTML or CSS.
